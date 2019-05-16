@@ -9,7 +9,7 @@
 3. <h3>All working (includes git actions, creating folders/directories, files, editing, saving, running the code, etc) has to be COMPULSORILY done in the Terminal/CommandPrompt.
    <br> No IDEs or GUI tools are allowed.</h3>
    
-4. There are 3 problems and attempting all problems is mandatory. There are no optional problems. 
+4. There are 3 problems for Developers and 2 problems for QAs, and attempting all problems is mandatory. There are no optional problems. 
    <br>Read the problems very carefully to understand what is asked.
 
 5. Access to internet is allowed.
