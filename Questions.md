@@ -1,6 +1,6 @@
 # Questions
 
-<h2> Problem 1 </h2>
+<h2> Dev 1 </h2>
 
 Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number S.
 
@@ -28,7 +28,7 @@ For each testcase, in a new line, print the starting and ending positions(1 inde
 
 __________________________________________________________________________________________
 
-<h2> Problem 2 </h2>
+<h2> Dev 2 </h2>
 
 Given an array A of N positive numbers. The task is to find the position where equilibrium first occurs in the array. Equilibrium position in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
 
@@ -57,7 +57,7 @@ For each test case in a new  line print the position at which the elements are a
 
 __________________________________________________________________________________________
 
-<h2> Problem 3</h2>
+<h2> Dev 3</h2>
 
 Given a matrix mat[][] of size M*N. Traverse and print the matrix in spiral form.
 
@@ -84,5 +84,31 @@ Elements when travelled in Spiral form, will be displayed in a single line.
 <h3>Explanantion</h3>
 <h4>Test Case 1</h4>
 <img src="https://www.geeksforgeeks.org/wp-content/uploads/spiral-matrix.png">
+
+
+__________________________________________________________________________________________
+
+<h2> QA 1</h2>
+
+Write an automation program to print the BookMyShow ticket prices in Rupees for all categories of tickets for Avengers Endgame English 3D at Cinepolis, Westend Mall, Pune.
+
+<h3>Example</h3>
+<h4>Output:</h4>
+Movie - Avengers Endgame<br>
+Language - 3D English<br>
+Venue - Cinepolis, Westend Mall, Pune<br>
+Showtime - 16th May 9:15 PM<br>
+Prices - Premium Rs 250, Executive Rs 230, Normal Rs 210<br>
+
+__________________________________________________________________________________________
+
+<h2> QA 2</h2>
+
+Write a program to find out the number of votes and % of :heart: for Avengers Endgame from BookMyShow.
+
+<h3>Example</h3>
+<h4>Output:</h4>
+% Love - 92%<br>
+Number of Votes - 213213<br>
 
 
