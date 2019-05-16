@@ -3,6 +3,7 @@
 1. This is a non team coding event.
 
 2. All working (includes git actions, creating folders/directories, files, editing, saving, running the code, etc) has to be COMPULSORILY done in the Terminal/CommandPrompt.
+   <br> No IDEs or GUI tools are allowed.
 
 3. Fork this repository, then clone the fork of this repository from your repository, and start working. 
    <br> At the end of the Challenge, generate a Pull Request back to this repository.
