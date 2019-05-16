@@ -90,6 +90,17 @@ ________________________________________________________________________________
 
 <h2> QA 1</h2>
 
+Write an automation program to find out the number of votes and % of :heart: for Avengers Endgame from BookMyShow.
+
+<h3>Example</h3>
+<h4>Output:</h4>
+% Love - 92%<br>
+Number of Votes - 213213<br>
+
+__________________________________________________________________________________________
+
+<h2> QA 2</h2>
+
 Write an automation program to print the BookMyShow ticket prices in Rupees for all categories of tickets for Avengers Endgame English 3D at Cinepolis, Westend Mall, Pune.
 
 <h3>Example</h3>
@@ -99,16 +110,3 @@ Language - 3D English<br>
 Venue - Cinepolis, Westend Mall, Pune<br>
 Showtime - 16th May 9:15 PM<br>
 Prices - Premium Rs 250, Executive Rs 230, Normal Rs 210<br>
-
-__________________________________________________________________________________________
-
-<h2> QA 2</h2>
-
-Write a program to find out the number of votes and % of :heart: for Avengers Endgame from BookMyShow.
-
-<h3>Example</h3>
-<h4>Output:</h4>
-% Love - 92%<br>
-Number of Votes - 213213<br>
-
-
