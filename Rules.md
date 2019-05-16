@@ -18,6 +18,4 @@
 
 7. At the beginning of each solution, please add multiline comments as to how to run your solutions in the Terminal/CommandPrompt. This is useful so that we know how to run and evaluate your solutions from our Terminals/CommandPrompts.
 
-8. Since this is a Challenge and not Workshop/Session, we would like to request you to kindly use the internet for doubts/issues/problems etc.
-
-9. There is no rule apart from the above 8 rules.
+8. Since this is a Challenge and not Workshop/Session, we would like to request you to kindly use the Internet for doubts/issues/problems etc.
