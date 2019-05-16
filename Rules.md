@@ -14,7 +14,9 @@
 
 5. Access to internet is allowed.
 
-6. For each question, create a file with the name as problem number, and extension as that of your preffered language of solution.
+6. For each question, create a file with the name as problem number, and extension as that of your preffered language of solution, or similar folder structure based on your choice of framework for solution.
+
+7. At the beginning of each solution, please add multiline comments as to how to run your solutions in the Terminal/CommandPrompt. This is useful so that we know how to run and evaluate your solutions from our Terminals/CommandPrompts.
 
 7. Since this is a Challenge and not Workshop/Session, we will not be available for doubts/issues/problems etc. Use the internet.
 
