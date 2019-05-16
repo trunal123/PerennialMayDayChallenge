@@ -1,4 +1,4 @@
-# Rules:
+# Rules
 
 1. This is a non team coding event.
 
